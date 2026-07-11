@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:castillofranklin771@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/frank771-ai"><img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -51,20 +51,20 @@ Soy un estudiante de Ingeniería en Tecnologías de la Información en la Univer
 ## Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&hide_border=true" alt="Lenguajes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=frank771-ai&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank771-ai&layout=compact&theme=radical&hide_border=true" alt="Lenguajes" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical&hide_border=true" alt="Racha" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frank771-ai&theme=radical&hide_border=true" alt="Racha" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=radical&no-frame=true" alt="Trofeos" />
+  <img src="https://github-profile-trophy.vercel.app/?username=frank771-ai&theme=radical&no-frame=true" alt="Trofeos" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=react-dark&hide_border=true" alt="Actividad" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frank771-ai&theme=react-dark&hide_border=true" alt="Actividad" />
 </p>
 
 ## Contacto
