@@ -1,0 +1,22 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6A1B9A; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1976D2; stop-opacity:1" />
+    </linearGradient>
+    <filter id="neonGlowIcon">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g filter="url(#neonGlowIcon)">
+    <path d="M50 10 C 27.9086 10 10 27.9086 10 50 C 10 72.0914 27.9086 90 50 90 C 72.0914 90 90 72.0914 90 50 C 90 27.9086 72.0914 10 50 10 Z M 50 25 C 66.5685 25 80 38.4315 80 50 C 80 61.5685 66.5685 75 50 75 C 33.4315 75 20 61.5685 20 50 C 20 38.4315 33.4315 25 50 25 Z M 50 40 C 55.5228 40 60 44.4772 60 50 C 60 55.5228 55.5228 60 50 60 C 44.4772 60 40 55.5228 40 50 C 40 44.4772 44.4772 40 50 40 Z" fill="url(#aiGradient)"/>
+    <circle cx="50" cy="50" r="15" fill="rgba(255,255,255,0.8)"/>
+    <path d="M50 50 L 50 60 L 40 60 L 40 50 Z" fill="#6A1B9A"/>
+    <path d="M50 50 L 50 60 L 60 60 L 60 50 Z" fill="#1976D2"/>
+    <rect x="45" y="45" width="10" height="10" rx="2" fill="white" opacity="0.8"/>
+  </g>
+</svg>

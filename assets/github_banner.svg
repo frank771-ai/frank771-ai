@@ -1,0 +1,30 @@
+<svg width="1600" height="400" viewBox="0 0 1600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bannerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0078D4; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8E44AD; stop-opacity:1" />
+    </linearGradient>
+    <filter id="neonGlow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="400" fill="url(#bannerGradient)"/>
+  <g filter="url(#neonGlow)">
+    <!-- Azure-inspired shapes -->
+    <path d="M150 150 Q 300 50 450 150 T 750 150" stroke="rgba(0, 120, 212, 0.8)" stroke-width="15" fill="none" stroke-linecap="round"/>
+    <circle cx="900" cy="200" r="70" fill="rgba(142, 68, 173, 0.7)" stroke="rgba(142, 68, 173, 0.9)" stroke-width="10"/>
+    <rect x="1100" y="100" width="150" height="150" rx="20" fill="rgba(0, 164, 239, 0.6)" stroke="rgba(0, 164, 239, 0.8)" stroke-width="10"/>
+    <path d="M1350 250 L 1450 150 L 1550 250" stroke="rgba(0, 120, 212, 0.7)" stroke-width="12" fill="none" stroke-linecap="round"/>
+    <circle cx="500" cy="300" r="50" fill="rgba(142, 68, 173, 0.5)" stroke="rgba(142, 68, 173, 0.7)" stroke-width="8"/>
+  </g>
+  <!-- Minimal GitHub-inspired elements -->
+  <g fill="white" opacity="0.8">
+    <circle cx="100" cy="100" r="15" opacity="0.7"/>
+    <rect x="100" y="140" width="30" height="15" rx="5"/>
+    <rect x="100" y="170" width="50" height="15" rx="5"/>
+  </g>
+</svg>
