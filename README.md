@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" width="100%">
 </p>
 
-<h1 align="center">Franklin Castillo Umana</h1>
+<h1 align="center">Franklin Castillo Umaña</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=Estudiante+de+Ingeniería;Apasionado+por+la+tecnología;Creando+soluciones+innovadoras" alt="Typing Animation" />
@@ -32,7 +32,6 @@ Soy un estudiante de Ingeniería en Tecnologías de la Información en la Univer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
 </p>
 
 ## Featured Projects
