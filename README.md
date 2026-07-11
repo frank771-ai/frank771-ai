@@ -1,45 +1,48 @@
 <<<<<<< HEAD
+<!-- TODO: Add main banner image here -->
 <p align="center">
-  <img src="assets/banner.svg" alt="Banner Profesional" />
+  <img src="assets/banner.svg" alt="Franklin Castillo Umaña Banner" />
 </p>
 
-<h1 align="center">¡Hola! Soy un futuro Ingeniero en Tecnologías de la Información</h1>
-
-<p align="center">
-  Estudiante apasionado por la tecnología con un enfoque en la creación de soluciones innovadoras y eficientes. Busco constantemente expandir mis conocimientos y habilidades en las fronteras de la informática.
-</p>
+<h1 align="center">Franklin Castillo Umaña</h1>
+<p align="center">Estudiante de Ingeniería en Tecnologías de la Información | Apasionado por la tecnología y la creación de soluciones innovadoras.</p>
 
 ---
 
-## ✨ Sobre Mí
+## 🚀 Sobre Mí
 
-Soy un estudiante de Ingeniería en Tecnologías de la Información en la <strong>Universidad Técnica Nacional</strong>, con una profunda curiosidad por el mundo de la tecnología y su potencial para transformar el futuro. Mi formación académica me ha proporcionado una sólida base en los principios de la ingeniería de software, redes y sistemas.
+Soy un estudiante de Ingeniería en Tecnologías de la Información en la <strong>Universidad Técnica Nacional (UTN)</strong>, con una profunda curiosidad por el mundo de la tecnología y su potencial para transformar el futuro. Mi formación académica me ha proporcionado una sólida base en los principios de la ingeniería de software, redes y sistemas.
 
-Mi objetivo es aplicar y crecer en áreas como:
-- **Desarrollo de Software:** Creación de aplicaciones robustas y escalables.
-- **Computación en la Nube (Cloud Computing):** Arquitecturas y despliegue en entornos cloud.
-- **Inteligencia Artificial:** Exploración de modelos y aplicaciones de IA.
-- **Análisis de Datos (Data Analytics):** Extracción de insights a partir de datos.
-- **Redes (Networking):** Comprensión y optimización de infraestructuras de red.
-- **Automatización:** Simplificación de procesos mediante scripts y herramientas.
+Busco aplicar y crecer en áreas clave como:
+
+*   <strong>Desarrollo de Software:</strong> Creación de aplicaciones robustas y escalables.
+*   <strong>Computación en la Nube (Cloud Computing):</strong> Arquitecturas y despliegue en entornos cloud.
+    <!-- TODO: Add Cloud Computing image here -->
+*   <strong>Inteligencia Artificial (AI):</strong> Exploración de modelos y aplicaciones de IA.
+    <!-- TODO: Add Artificial Intelligence image here -->
+*   <strong>Análisis de Datos (Data Analytics):</strong> Extracción de insights a partir de datos.
+    <!-- TODO: Add Data Analytics image here -->
+*   <strong>Redes (Networking):</strong> Comprensión y optimización de infraestructuras de red.
+*   <strong>Automatización:</strong> Simplificación de procesos mediante scripts y herramientas.
+    <!-- TODO: Add Automation image here -->
 
 ---
 
 ## 💻 Tecnologías y Herramientas
 
-| Categoría              | Tecnologías                                                                                                                                                             |
-| :--------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Lenguajes**          | <code>Python</code>, <code>Java</code>, <code>C++</code>, <code>JavaScript</code>, <code>SQL</code>, <code>Bash</code>                                                                     |
-| **Web Development**    | <code>HTML5</code>, <code>CSS3</code>, <code>React</code>, <code>Node.js</code>, <code>Flask</code>, <code>Django</code>                                                              |
-| **Cloud**              | <code>AWS</code>, <code>Azure</code>, <code>Google Cloud Platform (GCP)</code> (Conceptos básicos)                                                                       |
-| **Bases de Datos**     | <code>PostgreSQL</code>, <code>MySQL</code>, <code>MongoDB</code>                                                                                                           |
-| **IA / ML**            | <code>TensorFlow</code>, <code>Keras</code>, <code>Scikit-learn</code> (Conceptos básicos)                                                                             |
-| **DevOps & Tools**     | <code>Docker</code>, <code>Git</code>, <code>GitHub Actions</code>, <code>CI/CD</code> (Conceptos)                                                                          |
-| **Sistemas Operativos**| <code>Linux</code>, <code>Windows</code>                                                                                                                                    |
+| Categoría              | Tecnologías                                                                                                                                 |
+| :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lenguajes**          | <code>Python</code>, <code>Java</code>, <code>C++</code>, <code>JavaScript</code>, <code>SQL</code>, <code>Bash</code>                                  |
+| **Web Development**    | <code>HTML5</code>, <code>CSS3</code>, <code>React</code>, <code>Node.js</code>, <code>Flask</code>, <code>Django</code>                                        |
+| **Cloud**              | <code>AWS</code>, <code>Azure</code>, <code>Google Cloud Platform (GCP)</code> (Conceptos básicos)                                            |
+| **Bases de Datos**     | <code>PostgreSQL</code>, <code>MySQL</code>, <code>MongoDB</code>                                                                               |
+| **IA / ML**            | <code>TensorFlow</code>, <code>Keras</code>, <code>Scikit-learn</code> (Conceptos básicos)                                                  |
+| **DevOps & Tools**     | <code>Docker</code>, <code>Git</code>, <code>GitHub Actions</code>, <code>CI/CD</code> (Conceptos)                                              |
+| **Sistemas Operativos**| <code>Linux</code>, <code>Windows</code>                                                                                                        |
 
 ---
 
-## 📚 Actualmente Aprendiendo
+## 📚 Aprendizaje Continuo
 
 *   Profundizando en **Machine Learning y Deep Learning** con aplicaciones prácticas.
 *   Explorando arquitecturas de **microservicios** y patrones de diseño.
@@ -54,9 +57,10 @@ Busco oportunidades para aplicar mis conocimientos técnicos en entornos desafia
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
-<!-- START: GitHub Stats Card -->
+*Nota: Reemplaza `tu-usuario` con tu nombre de usuario real de GitHub para que las estadísticas funcionen.*
+
 <p align="center">
   <a href="https://github.com/tu-usuario">
     <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -65,35 +69,23 @@ Busco oportunidades para aplicar mis conocimientos técnicos en entornos desafia
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
-<!-- END: GitHub Stats Card -->
-
----
-
-## 🚀 Futuros Proyectos
-
-Este espacio está reservado para futuros proyectos donde podré explorar y aplicar nuevas tecnologías, así como consolidar las habilidades adquiridas. ¡Mantente atento a las novedades!
 
 ---
 
 ## 📞 Contacto
 
-| Plataforma        | Enlace                                     |
-| :---------------- | :----------------------------------------- |
-| <strong>Email</strong>    | <a href="mailto:tu.email@ejemplo.com">tu.email@ejemplo.com</a> |
-| <strong>LinkedIn</strong> | <a href="https://www.linkedin.com/in/tu-usuario-linkedin/">linkedin.com/in/tu-usuario-linkedin/</a> |
-| <strong>Portfolio</strong>| <a href="https://tu-portfolio.com">tu-portfolio.com</a> (Opcional) |
-| <strong>Website</strong>  | <a href="https://tu-website.com">tu-website.com</a> (Opcional) |
+- 📧 **Email:** castillofranklin771@gmail.com
+- 🎓 **Email Estudiantil:** frcastilloum@est.utn.ac.cr
 
 ---
 
-## 🔗 Badges y Reconocimientos
+## 🔗 Reconocimientos y Badges
 
 <p align="center">
-  <a href="https://github.com/tu-usuario"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/tu-usuario-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.udemy.com/courses/technology/"><img src="https://img.shields.io/badge/Udemy-8F4AE3?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy"></a>
-  <a href="https:// Coursera.org/"><img src="https://img.shields.io/badge/Coursera-0076D1?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"></a>
-  <a href="https://stackexchange.com/"><img src="https://img.shields.io/badge/Stack%20Exchange-2D2D2D?style=for-the-badge&logo=stackexchange&logoColor=white" alt="Stack Exchange"></a>
+  <a href="https://github.com/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.udemy.com/" target="_blank"><img src="https://img.shields.io/badge/Udemy-8F4AE3?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy"></a>
+  <a href="https://www.coursera.org/" target="_blank"><img src="https://img.shields.io/badge/Coursera-0076D1?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"></a>
+  <a href="https://stackoverflow.com/" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
 </p>
 
 ---
