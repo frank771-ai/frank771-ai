@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-<!-- TODO: Add main banner image here -->
-<p align="center">
-  <img src="assets/banner.svg" alt="Franklin Castillo Umaña Banner" />
-</p>
+# Franklin Castillo Umana
 
-<h1 align="center">Franklin Castillo Umaña</h1>
-<p align="center">Estudiante de Ingenieria en Tecnologias de la Informacion | Apasionado por la tecnologia y la creacion de soluciones innovadoras.</p>
+Estudiante de Ingenieria en Tecnologias de la Informacion | Apasionado por la tecnologia y la creacion de soluciones innovadoras.
 
 ---
 
@@ -15,16 +10,12 @@ Soy un estudiante de Ingenieria en Tecnologias de la Informacion en la Universid
 
 Busco aplicar y crecer en areas clave como:
 
-*   Desarrollo de Software: Creacion de aplicaciones robustas y escalables.
-*   Computacion en la Nube (Cloud Computing):
-    <!-- TODO: Add Cloud Computing image here -->
-*   Inteligencia Artificial (AI): Exploracion de modelos y aplicaciones de IA.
-    <!-- TODO: Add Artificial Intelligence image here -->
-*   Analisis de Datos (Data Analytics): Extraccion de insights a partir de datos.
-    <!-- TODO: Add Data Analytics image here -->
-*   Redes (Networking): Comprension y optimizacion de infraestructuras de red.
-*   Automatizacion: Simplificacion de procesos mediante scripts y herramientas.
-    <!-- TODO: Add Automation image here -->
+* Desarrollo de Software: Creacion de aplicaciones robustas y escalables.
+* Computacion en la Nube (Cloud Computing).
+* Inteligencia Artificial (AI): Exploracion de modelos y aplicaciones de IA.
+* Analisis de Datos (Data Analytics): Extraccion de insights a partir de datos.
+* Redes (Networking): Comprension y optimizacion de infraestructuras de red.
+* Automatizacion: Simplificacion de procesos mediante scripts y herramientas.
 
 ---
 
@@ -57,21 +48,6 @@ Busco oportunidades para aplicar mis conocimientos tecnicos en entornos desafian
 
 ---
 
-## Estadisticas de GitHub
-
-*Nota: Reemplaza `tu-usuario` con tu nombre de usuario real de GitHub para que las estadisticas funcionen.*
-
-<p align="center">
-  <a href="https://github.com/tu-usuario">
-    <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/tu-usuario">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
----
-
 ## Contacto
 
 - Email: castillofranklin771@gmail.com
@@ -79,35 +55,4 @@ Busco oportunidades para aplicar mis conocimientos tecnicos en entornos desafian
 
 ---
 
-## Reconocimientos y Badges
-
-<p align="center">
-  <a href="https://github.com/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.udemy.com/" target="_blank"><img src="https://img.shields.io/badge/Udemy-8F4AE3?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy"></a>
-  <a href="https://www.coursera.org/" target="_blank"><img src="https://img.shields.io/badge/Coursera-0076D1?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"></a>
-  <a href="https://stackoverflow.com/" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-</p>
-
----
-
-<p align="center">
-  Gracias por visitar mi perfil! Construyendo el futuro, un codigo a la vez.
-</p>
-=======
-## Hi there 👋
-
-<!--
-**frank771-ai/frank771-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 441c92054d55b490b2310d833055e4c027efa9f5
+Gracias por visitar mi perfil. Construyendo el futuro, un codigo a la vez.
