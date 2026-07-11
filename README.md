@@ -1,8 +1,10 @@
 # Franklin Castillo Umana
 
-Estudiante de Ingenieria en Tecnologias de la Informacion | Apasionado por la tecnologia y la creacion de soluciones innovadoras.
+<p align="center">
+<img src="assets/banner.svg" width="100%">
+</p>
 
-<!-- TODO: Banner principal -->
+Estudiante de Ingenieria en Tecnologias de la Informacion | Apasionado por la tecnologia y la creacion de soluciones innovadoras.
 
 ## Sobre Mi
 
