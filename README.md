@@ -5,61 +5,61 @@
 </p>
 
 <h1 align="center">Franklin Castillo Umaña</h1>
-<p align="center">Estudiante de Ingeniería en Tecnologías de la Información | Apasionado por la tecnología y la creación de soluciones innovadoras.</p>
+<p align="center">Estudiante de Ingenieria en Tecnologias de la Informacion | Apasionado por la tecnologia y la creacion de soluciones innovadoras.</p>
 
 ---
 
-## 🚀 Sobre Mí
+## Sobre Mi
 
-Soy un estudiante de Ingeniería en Tecnologías de la Información en la <strong>Universidad Técnica Nacional (UTN)</strong>, con una profunda curiosidad por el mundo de la tecnología y su potencial para transformar el futuro. Mi formación académica me ha proporcionado una sólida base en los principios de la ingeniería de software, redes y sistemas.
+Soy un estudiante de Ingenieria en Tecnologias de la Informacion en la Universidad Tecnica Nacional (UTN), con una profunda curiosidad por el mundo de la tecnologia y su potencial para transformar el futuro. Mi formacion academica me ha proporcionado una solida base en los principios de la ingenieria de software, redes y sistemas.
 
-Busco aplicar y crecer en áreas clave como:
+Busco aplicar y crecer en areas clave como:
 
-*   <strong>Desarrollo de Software:</strong> Creación de aplicaciones robustas y escalables.
-*   <strong>Computación en la Nube (Cloud Computing):</strong> Arquitecturas y despliegue en entornos cloud.
+*   Desarrollo de Software: Creacion de aplicaciones robustas y escalables.
+*   Computacion en la Nube (Cloud Computing):
     <!-- TODO: Add Cloud Computing image here -->
-*   <strong>Inteligencia Artificial (AI):</strong> Exploración de modelos y aplicaciones de IA.
+*   Inteligencia Artificial (AI): Exploracion de modelos y aplicaciones de IA.
     <!-- TODO: Add Artificial Intelligence image here -->
-*   <strong>Análisis de Datos (Data Analytics):</strong> Extracción de insights a partir de datos.
+*   Analisis de Datos (Data Analytics): Extraccion de insights a partir de datos.
     <!-- TODO: Add Data Analytics image here -->
-*   <strong>Redes (Networking):</strong> Comprensión y optimización de infraestructuras de red.
-*   <strong>Automatización:</strong> Simplificación de procesos mediante scripts y herramientas.
+*   Redes (Networking): Comprension y optimizacion de infraestructuras de red.
+*   Automatizacion: Simplificacion de procesos mediante scripts y herramientas.
     <!-- TODO: Add Automation image here -->
 
 ---
 
-## 💻 Tecnologías y Herramientas
+## Tecnologias y Herramientas
 
-| Categoría              | Tecnologías                                                                                                                                 |
-| :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Lenguajes**          | <code>Python</code>, <code>Java</code>, <code>C++</code>, <code>JavaScript</code>, <code>SQL</code>, <code>Bash</code>                                  |
-| **Web Development**    | <code>HTML5</code>, <code>CSS3</code>, <code>React</code>, <code>Node.js</code>, <code>Flask</code>, <code>Django</code>                                        |
-| **Cloud**              | <code>AWS</code>, <code>Azure</code>, <code>Google Cloud Platform (GCP)</code> (Conceptos básicos)                                            |
-| **Bases de Datos**     | <code>PostgreSQL</code>, <code>MySQL</code>, <code>MongoDB</code>                                                                               |
-| **IA / ML**            | <code>TensorFlow</code>, <code>Keras</code>, <code>Scikit-learn</code> (Conceptos básicos)                                                  |
-| **DevOps & Tools**     | <code>Docker</code>, <code>Git</code>, <code>GitHub Actions</code>, <code>CI/CD</code> (Conceptos)                                              |
-| **Sistemas Operativos**| <code>Linux</code>, <code>Windows</code>                                                                                                        |
-
----
-
-## 📚 Aprendizaje Continuo
-
-*   Profundizando en **Machine Learning y Deep Learning** con aplicaciones prácticas.
-*   Explorando arquitecturas de **microservicios** y patrones de diseño.
-*   Optimizando la gestión de **bases de datos NoSQL**.
-*   Mejorando mis habilidades en **automatización de infraestructura** con herramientas como Terraform.
+| Categoria | Tecnologias |
+|---|---|
+| Lenguajes | Python, Java, C++, JavaScript, SQL, Bash |
+| Web Development | HTML5, CSS3, React, Node.js, Flask, Django |
+| Cloud | AWS, Azure, Google Cloud Platform (GCP) (Conceptos basicos) |
+| Bases de Datos | PostgreSQL, MySQL, MongoDB |
+| IA / ML | TensorFlow, Keras, Scikit-learn (Conceptos basicos) |
+| DevOps & Tools | Docker, Git, GitHub Actions, CI/CD (Conceptos) |
+| Sistemas Operativos | Linux, Windows |
 
 ---
 
-## 🎯 Objetivos Profesionales
+## Aprendizaje Continuo
 
-Busco oportunidades para aplicar mis conocimientos técnicos en entornos desafiantes, colaborar en equipos innovadores y contribuir al desarrollo de tecnologías que marquen la diferencia. Mi meta a largo plazo es convertirme en un profesional versátil, capaz de abordar problemas complejos desde diferentes perspectivas tecnológicas.
+* Profundizando en Machine Learning y Deep Learning con aplicaciones practicas.
+* Explorando arquitecturas de microservicios y patrones de diseño.
+* Optimizando la gestion de bases de datos NoSQL.
+* Mejorando mis habilidades en automatizacion de infraestructura con herramientas como Terraform.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Objetivos Profesionales
 
-*Nota: Reemplaza `tu-usuario` con tu nombre de usuario real de GitHub para que las estadísticas funcionen.*
+Busco oportunidades para aplicar mis conocimientos tecnicos en entornos desafiantes, colaborar en equipos innovadores y contribuir al desarrollo de tecnologias que marquen la diferencia. Mi meta a largo plazo es convertirme en un profesional versatil, capaz de abordar problemas complejos desde diferentes perspectivas tecnologicas.
+
+---
+
+## Estadisticas de GitHub
+
+*Nota: Reemplaza `tu-usuario` con tu nombre de usuario real de GitHub para que las estadisticas funcionen.*
 
 <p align="center">
   <a href="https://github.com/tu-usuario">
@@ -72,14 +72,14 @@ Busco oportunidades para aplicar mis conocimientos técnicos en entornos desafia
 
 ---
 
-## 📞 Contacto
+## Contacto
 
-- 📧 **Email:** castillofranklin771@gmail.com
-- 🎓 **Email Estudiantil:** frcastilloum@est.utn.ac.cr
+- Email: castillofranklin771@gmail.com
+- Email Estudiantil: frcastilloum@est.utn.ac.cr
 
 ---
 
-## 🔗 Reconocimientos y Badges
+## Reconocimientos y Badges
 
 <p align="center">
   <a href="https://github.com/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -91,7 +91,7 @@ Busco oportunidades para aplicar mis conocimientos técnicos en entornos desafia
 ---
 
 <p align="center">
-  ¡Gracias por visitar mi perfil! Construyendo el futuro, un código a la vez. 🚀
+  Gracias por visitar mi perfil! Construyendo el futuro, un codigo a la vez.
 </p>
 =======
 ## Hi there 👋
