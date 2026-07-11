@@ -5,7 +5,7 @@
 <h1 align="center">Franklin Castillo Umana</h1>
 
 <p align="center">
-  <em>Estudiante de Ingeniería en Tecnologías de la Información | Apasionado por la tecnología y la creación de soluciones innovadoras.</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=Estudiante+de+Ingeniería;Apasionado+por+la+tecnología;Creando+soluciones+innovadoras" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -35,42 +35,10 @@ Soy un estudiante de Ingeniería en Tecnologías de la Información en la Univer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
 </p>
 
-## Current Interests
-
-<p align="center">
-  <strong>Desarrollo de Software</strong> • <strong>Computación en la Nube</strong> • <strong>Inteligencia Artificial</strong> • <strong>Análisis de Datos</strong> • <strong>Automatización</strong>
-</p>
-
 ## Featured Projects
 
 <p align="center">
   <em>Próximamente: Espacio reservado para mis proyectos destacados.</em>
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frank771-ai&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="Estadísticas" />
-</p>
-
-## Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank771-ai&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Lenguajes" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frank771-ai&theme=radical&hide_border=true&background=00000000" alt="Racha" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=frank771-ai&theme=radical&no-frame=true&no-bg=true" alt="Trofeos" />
-</p>
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frank771-ai&theme=react-dark&hide_border=true&bg_color=00000000" alt="Actividad" />
 </p>
 
 ## Contact
