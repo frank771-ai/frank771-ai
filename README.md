@@ -137,15 +137,16 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
       <p align="center"><a href="https://github.com/frank771-ai/cafe-salas"><b>⌁ Ver repositorio</b></a> · <a href="https://cafe-salas.vercel.app"><b>▶ Demo</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Librería Horizonte</h3>
-      <p align="center"><b>Inventario cloud reproducible</b></p>
-      <p>Aplicación de inventario con FastAPI y PostgreSQL, preparada con health checks, persistencia y orquestación mediante Docker Compose.</p>
+      <h3 align="center">note.</h3>
+      <p align="center"><b>Negocio propio · Perfumería curada</b></p>
+      <p>Catálogo interactivo para descubrir fragancias mediante búsqueda, filtros, perfiles olfativos, comparación, favoritos y atención personalizada por WhatsApp.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL 16" />
-        <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
+        <img src="https://img.shields.io/badge/React_19-149ECA?style=flat-square&logo=react&logoColor=white" alt="React 19" />
+        <img src="https://img.shields.io/badge/TypeScript_5-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 5" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
       </p>
-      <p align="center"><a href="https://github.com/frank771-ai/libreria-horizonte-iti522"><b>⌁ Ver repositorio</b></a></p>
+      <p align="center"><img src="https://img.shields.io/badge/NEGOCIO_PROPIO-8B5CF6?style=for-the-badge&logoColor=white" alt="Negocio propio" /><br /><sub>Proyecto privado en desarrollo</sub></p>
     </td>
   </tr>
 </table>
