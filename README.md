@@ -44,6 +44,16 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
   </tr>
 </table>
 
+## 🧊 Laboratorio visual 3D
+
+<div align="center">
+  <img src="assets/tech-3d.svg" width="100%" alt="Laboratorio tecnológico 3D animado con Full Stack, Cloud, IA y Data" />
+</div>
+
+<p align="center">
+  <sub>Una arquitectura viva: capas isométricas, núcleo luminoso, escáner, partículas orbitales y profundidad en movimiento.</sub>
+</p>
+
 ## 🧬 Ecosistema tecnológico
 
 <details open>
@@ -174,6 +184,18 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frank771-ai&theme=tokyonight" alt="Repositorios por lenguaje" />
 </div>
 </details>
+
+## 🏙️ Skyline 3D de contribuciones
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Calendario tridimensional de contribuciones de GitHub" />
+  </picture>
+</div>
+
+<p align="center"><sub>Se regenera automáticamente cada día con mi actividad real.</sub></p>
 
 ## 🐍 El código también se mueve
 
