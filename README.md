@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img src="assets/banner.svg" width="100%" alt="Banner animado de Franklin Castillo Umaña" />
+    <img src="assets/hero-animated.svg" width="100%" alt="Banner animado de Franklin Castillo Umaña" />
   </picture>
 </div>
 
