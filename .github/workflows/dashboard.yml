@@ -1,0 +1,39 @@
+name: Generate profile activity dashboard
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/generate-dashboard.mjs"
+      - ".github/workflows/dashboard.yml"
+  schedule:
+    - cron: "17 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@v5
+
+      - name: Generate dashboard
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+        run: node scripts/generate-dashboard.mjs
+
+      - name: Commit refreshed dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-dashboard.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: refresh profile activity dashboard"
+          git push

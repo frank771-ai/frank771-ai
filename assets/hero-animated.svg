@@ -26,8 +26,8 @@
     <path id="orbit" d="M360 282C500 96 1100 96 1240 282C1100 468 500 468 360 282Z"/>
   </defs>
   <style>
-    .mono{font-family:Consolas,Cascadia Code,monospace;letter-spacing:1.8px}.ui{font-family:Inter,Segoe UI,Arial,sans-serif}.dash{stroke-dasharray:7 15;animation:dash 3s linear infinite}.pulse{animation:pulse 2.4s ease-in-out infinite}.float{animation:float 5s ease-in-out infinite}.float2{animation:float2 6.4s ease-in-out infinite}.blink{animation:blink 1.5s ease-in-out infinite}
-    @keyframes dash{to{stroke-dashoffset:-44}}@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}@keyframes float2{0%,100%{transform:translateY(-7px)}50%{transform:translateY(9px)}}@keyframes blink{50%{opacity:.15}}
+    .mono{font-family:Consolas,Cascadia Code,monospace;letter-spacing:1.8px}.ui{font-family:Inter,Segoe UI,Arial,sans-serif}.dash{stroke-dasharray:7 15;animation:dash 12s linear infinite}.pulse{animation:pulse 12s ease-in-out infinite}.float{animation:float 12s ease-in-out infinite}.float2{animation:float2 12s ease-in-out infinite}.blink{animation:blink 1.5s ease-in-out infinite}.phrase{opacity:0;animation:phrase 12s ease-in-out infinite}.p1{animation-delay:0s}.p2{animation-delay:-4s}.p3{animation-delay:-8s}
+    @keyframes dash{to{stroke-dashoffset:-176}}@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}@keyframes float2{0%,100%{transform:translateY(-7px)}50%{transform:translateY(9px)}}@keyframes blink{50%{opacity:.15}}@keyframes phrase{0%,28%{opacity:1;transform:translateY(0)}33%,95%{opacity:0;transform:translateY(5px)}96%,100%{opacity:1}}
     @media(prefers-reduced-motion:reduce){*{animation:none!important}}
   </style>
   <rect width="1600" height="560" rx="38" fill="url(#bg)"/>
@@ -54,7 +54,7 @@
     <g class="ui" text-anchor="middle">
       <text x="800" y="225" font-size="70" font-weight="900" letter-spacing="4" fill="url(#spectrum)" filter="url(#glow)">FRANKLIN CASTILLO UMAÑA</text>
       <text x="800" y="292" font-size="28" font-weight="700" letter-spacing="7"><tspan fill="#22d3ee">FULL-STACK</tspan><tspan fill="#64748b"> · </tspan><tspan fill="#60a5fa">CLOUD</tspan><tspan fill="#64748b"> · </tspan><tspan fill="#c084fc">AI</tspan><tspan fill="#64748b"> · </tspan><tspan fill="#f472b6">DATA</tspan></text>
-      <text x="800" y="340" fill="#b8c7db" font-size="20" letter-spacing="3">IT ENGINEERING · COSTA RICA</text>
+      <g fill="#b8c7db" font-size="20" letter-spacing="3"><text x="800" y="340" class="phrase p1">IT ENGINEERING · COSTA RICA</text><text x="800" y="340" class="phrase p2">TURNING IDEAS INTO REAL SYSTEMS</text><text x="800" y="340" class="phrase p3">PRODUCTS · CLOUD · AUTOMATION</text></g>
       <g transform="translate(800 398)"><rect x="-244" y="-25" width="488" height="50" rx="25" fill="#080d1b" fill-opacity=".82" stroke="url(#spectrum)" stroke-opacity=".72"/><circle cx="-208" cy="0" r="7" fill="#22c55e" filter="url(#smallGlow)" class="blink"/><text x="18" y="7" fill="#e5f7ff" font-size="17" font-weight="700" letter-spacing="2">AVAILABLE TO BUILD WHAT'S NEXT</text></g>
     </g>
     <g filter="url(#smallGlow)"><circle r="5" fill="#00e5ff"><animateMotion dur="7s" repeatCount="indefinite"><mpath href="#orbit"/></animateMotion></circle><circle r="4" fill="#ff3cac"><animateMotion dur="5.5s" begin="-2s" repeatCount="indefinite"><mpath href="#orbit"/></animateMotion></circle><circle r="4" fill="#facc15"><animateMotion dur="8s" begin="-4s" repeatCount="indefinite"><mpath href="#orbit"/></animateMotion></circle></g>

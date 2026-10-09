@@ -1,61 +1,104 @@
 <div align="center">
   <picture>
-    <img src="assets/hero-animated.svg" width="100%" alt="Banner animado de Franklin Castillo Umaña" />
+    <source media="(max-width: 680px)" srcset="assets/hero-mobile.svg" />
+    <img src="assets/hero-animated.svg" width="100%" alt="Portada holográfica animada de Franklin Castillo Umaña" />
   </picture>
 </div>
 
+<h3 align="center">Diseño, construyo y despliego productos digitales completos.</h3>
+<p align="center">Full-stack · Cloud · Inteligencia artificial · Datos · Automatización</p>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=850&color=00E5FF&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Ingenieria+IT+%40+UTN;Full-Stack+%2B+Cloud+%2B+IA+%2B+Data;Convirtiendo+ideas+en+sistemas+reales;Siempre+aprendiendo.+Siempre+construyendo." alt="Presentación animada" />
-  </a>
+  <a href="#-productos-destacados"><img src="https://img.shields.io/badge/EXPLORAR_PROYECTOS-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explorar proyectos" /></a>
+  <a href="mailto:castillofranklin771@gmail.com"><img src="https://img.shields.io/badge/CONSTRUIR_ALGO_JUNTOS-FF3CAC?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactar" /></a>
 </div>
 
 <div align="center">
-  <a href="mailto:castillofranklin771@gmail.com"><img src="https://img.shields.io/badge/Email-FF3CAC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/frank771-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/frank771-ai?tab=followers"><img src="https://img.shields.io/github/followers/frank771-ai?style=for-the-badge&logo=github&label=Seguidores&color=8B5CF6&labelColor=0D1117" alt="Seguidores en GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=frank771-ai&style=for-the-badge&color=F59E0B&label=VISITAS" alt="Visitas al perfil" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-22C55E?style=for-the-badge&labelColor=0D1117" alt="Disponible para colaborar" />
+  <a href="https://linkedin.com/in/frank771-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/frank771-ai?tab=followers"><img src="https://img.shields.io/github/followers/frank771-ai?style=flat-square&logo=github&label=Seguidores&color=8B5CF6&labelColor=0D1117" alt="Seguidores en GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=frank771-ai&style=flat-square&color=F59E0B&label=VISITAS" alt="Visitas al perfil" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-22C55E?style=flat-square&labelColor=0D1117" alt="Disponible para colaborar" />
 </div>
 
-<div align="center">
-  <img src="assets/neon-divider.svg" width="92%" alt="Pulso neón animado" />
-</div>
+<div align="center"><img src="assets/neon-divider.svg" width="92%" alt="Pulso neón animado" /></div>
 
 ## `> whoami`
 
-Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de la Información en la **Universidad Técnica Nacional de Costa Rica**. Me gusta conectar desarrollo de software, nube, datos, automatización e inteligencia artificial para llevar una idea desde el diagrama hasta una solución desplegada y observable.
-
-- 🔭 Construyo aplicaciones **full-stack**, APIs, automatizaciones y soluciones cloud.
-- 🧠 Exploro **IA generativa, LLMs, scraping inteligente y análisis de datos**.
-- ☁️ Trabajo con despliegues reproducibles, contenedores, bases de datos y observabilidad.
-- 🛡️ Me interesan las arquitecturas seguras, el control de acceso y la ingeniería confiable.
-- 📍 San Carlos, Costa Rica.
-
-<div align="center">
-  <img src="assets/terminal.svg" width="92%" alt="Terminal animada con el perfil técnico de Franklin" />
-</div>
-
-## ⚡ Lo que construyo
+Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de la Información en la **Universidad Técnica Nacional de Costa Rica**. Conecto software, nube, datos e inteligencia artificial para transformar problemas reales en productos desplegados, observables y útiles.
 
 <table>
   <tr>
-    <td width="25%" align="center"><img src="https://img.shields.io/badge/🌐_FULL--STACK-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Full-Stack" /><br /><sub>Interfaces modernas, APIs REST, autenticación y experiencias completas.</sub></td>
-    <td width="25%" align="center"><img src="https://img.shields.io/badge/☁️_CLOUD_DEVOPS-3B82F6?style=for-the-badge&labelColor=0D1117" alt="Cloud y DevOps" /><br /><sub>Contenedores, CI/CD, Kubernetes, despliegues y observabilidad.</sub></td>
-    <td width="25%" align="center"><img src="https://img.shields.io/badge/🤖_AI_AUTOMATION-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="IA y automatización" /><br /><sub>LLMs, extracción de datos, tareas programadas y flujos inteligentes.</sub></td>
-    <td width="25%" align="center"><img src="https://img.shields.io/badge/🗄️_DATA-FF3CAC?style=for-the-badge&labelColor=0D1117" alt="Data" /><br /><sub>Modelado SQL, PostgreSQL, Supabase, MariaDB, SQLite y D1.</sub></td>
+    <td width="33%" align="center"><img src="https://img.shields.io/badge/📍_BASE-SAN_CARLOS_CR-00E5FF?style=for-the-badge&labelColor=0D1117" alt="San Carlos, Costa Rica" /><br /><sub>Construyendo desde Costa Rica.</sub></td>
+    <td width="33%" align="center"><img src="https://img.shields.io/badge/🎓_EDUCATION-IT_@_UTN-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Ingeniería IT en UTN" /><br /><sub>Ingeniería, producto y aprendizaje continuo.</sub></td>
+    <td width="33%" align="center"><img src="https://img.shields.io/badge/⚡_MODE-BUILD_AND_SHIP-FF3CAC?style=for-the-badge&labelColor=0D1117" alt="Construir y desplegar" /><br /><sub>De la idea al sistema funcionando.</sub></td>
   </tr>
 </table>
 
-## 🧊 Laboratorio visual 3D
+## 🚀 Productos destacados
 
 <div align="center">
-  <img src="assets/tech-3d.svg" width="100%" alt="Laboratorio tecnológico 3D animado con Full Stack, Cloud, IA y Data" />
+  <picture>
+    <source media="(max-width: 680px)" srcset="assets/projects-showcase-mobile.svg" />
+    <img src="assets/projects-showcase.svg" width="100%" alt="Showcase visual de note, AURA, CloudScraperLLM y Café Salas" />
+  </picture>
 </div>
 
-<p align="center">
-  <sub>Una arquitectura viva: capas isométricas, núcleo luminoso, escáner, partículas orbitales y profundidad en movimiento.</sub>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">01 · note.</h3>
+      <p align="center"><img src="https://img.shields.io/badge/PRODUCTO_INSIGNIA-NEGOCIO_PROPIO-FF3CAC?style=for-the-badge&labelColor=0D1117" alt="Producto insignia y negocio propio" /></p>
+      <p><b>Problema:</b> descubrir una fragancia adecuada suele requerir recorrer catálogos desordenados y recibir poca orientación.</p>
+      <p><b>Construcción:</b> catálogo interactivo con búsqueda, filtros, perfiles olfativos, comparación, favoritos y atención por WhatsApp.</p>
+      <p><b>Estado:</b> producto privado en desarrollo con Next.js 16, React 19, TypeScript y Supabase.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">02 · AURA</h3>
+      <p align="center"><img src="https://img.shields.io/badge/EDTECH-FULL--STACK-00E5FF?style=for-the-badge&labelColor=0D1117" alt="EdTech full-stack" /></p>
+      <p><b>Problema:</b> coordinar disponibilidad, asignación y préstamo de aulas sin perder trazabilidad.</p>
+      <p><b>Construcción:</b> roles, calendario institucional, reportes, auditoría y administración de recursos.</p>
+      <p align="center"><a href="https://aura-utn.vercel.app/"><img src="https://img.shields.io/badge/ABRIR_DEMO-00E5FF?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Abrir demo de AURA" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">03 · CloudScraperLLM</h3>
+      <p align="center"><img src="https://img.shields.io/badge/AI_PIPELINE-AUTOMATION-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Pipeline de IA y automatización" /></p>
+      <p><b>Problema:</b> convertir información dispersa de productos en datos estructurados y resúmenes útiles.</p>
+      <p><b>Construcción:</b> extracción, persistencia, tareas programadas y generación de resúmenes con Azure OpenAI.</p>
+      <p align="center"><a href="https://github.com/frank771-ai/CloudScraperLLM"><img src="https://img.shields.io/badge/VER_CÓDIGO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Ver CloudScraperLLM" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">04 · Café Salas</h3>
+      <p align="center"><img src="https://img.shields.io/badge/E--COMMERCE-COSTA_RICA-F59E0B?style=for-the-badge&labelColor=0D1117" alt="E-commerce costarricense" /></p>
+      <p><b>Problema:</b> llevar una experiencia comercial completa a una arquitectura web desplegable y administrable.</p>
+      <p><b>Construcción:</b> catálogo, carrito, checkout, autenticación, facturas PDF, administración y pruebas.</p>
+      <p align="center"><a href="https://cafe-salas.vercel.app"><img src="https://img.shields.io/badge/ABRIR_DEMO-F59E0B?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Abrir Café Salas" /></a> <a href="https://github.com/frank771-ai/cafe-salas"><img src="https://img.shields.io/badge/CÓDIGO-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver código de Café Salas" /></a></p>
+    </td>
+  </tr>
+</table>
+
+<div align="center"><img src="assets/neon-divider.svg" width="86%" alt="Separador de energía multicolor" /></div>
+
+## ⚡ Capacidades
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><img src="https://img.shields.io/badge/01-FULL--STACK-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Full-Stack" /><br /><sub>Interfaces modernas, APIs REST, autenticación y experiencias completas de principio a fin.</sub></td>
+    <td width="50%" valign="top"><img src="https://img.shields.io/badge/02-CLOUD_DEVOPS-3B82F6?style=for-the-badge&labelColor=0D1117" alt="Cloud y DevOps" /><br /><sub>Contenedores, CI/CD, Kubernetes, despliegues reproducibles y observabilidad.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><img src="https://img.shields.io/badge/03-AI_AUTOMATION-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="IA y automatización" /><br /><sub>LLMs, agentes, extracción de datos, tareas programadas y flujos inteligentes.</sub></td>
+    <td width="50%" valign="top"><img src="https://img.shields.io/badge/04-DATA-FF3CAC?style=for-the-badge&labelColor=0D1117" alt="Data" /><br /><sub>Modelado SQL, PostgreSQL, Supabase, MariaDB, SQLite y Cloudflare D1.</sub></td>
+  </tr>
+</table>
+
+<div align="center"><img src="assets/terminal.svg" width="94%" alt="Terminal holográfica con telemetría técnica" /></div>
+
+## 🧊 Laboratorio visual 3D
+
+<div align="center"><img src="assets/tech-3d.svg" width="100%" alt="Laboratorio tecnológico 3D animado con Full Stack, Cloud, IA y Data" /></div>
+<p align="center"><sub>Capas isométricas, núcleo luminoso, escáner y partículas orbitales representan cómo conecto producto, infraestructura, inteligencia y datos.</sub></p>
 
 ## 🧬 Ecosistema tecnológico
 
@@ -69,7 +112,7 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
 </div>
 </details>
 
-<details open>
+<details>
 <summary><b>Backend, datos y APIs</b></summary>
 <br />
 <div align="center">
@@ -78,11 +121,10 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
   <img src="https://img.shields.io/badge/Drizzle_ORM-0D1117?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle ORM" />
   <img src="https://img.shields.io/badge/Cloudflare_D1-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare D1" />
   <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=00E5FF" alt="JWT" />
-  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=8B5CF6" alt="APIs REST" />
 </div>
 </details>
 
-<details open>
+<details>
 <summary><b>Cloud, DevOps y observabilidad</b></summary>
 <br />
 <div align="center">
@@ -95,7 +137,7 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
 </div>
 </details>
 
-<details open>
+<details>
 <summary><b>IA, datos y automatización</b></summary>
 <br />
 <div align="center">
@@ -110,95 +152,12 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
 </div>
 </details>
 
-<div align="center">
-  <img src="assets/neon-divider.svg" width="86%" alt="Separador de energía multicolor" />
-</div>
+<div align="center"><img src="assets/neon-divider.svg" width="86%" alt="Separador de energía multicolor" /></div>
 
-## 🚀 Proyectos destacados
+## 📡 Señal de actividad
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">AURA</h3>
-      <p align="center"><b>Administración Universitaria de Recursos y Aulas</b></p>
-      <p align="center"><img src="https://img.shields.io/badge/PRODUCT_01-EDTECH-00E5FF?style=flat-square&labelColor=0D1117" alt="EdTech" /></p>
-      <p>Sistema full-stack para disponibilidad, asignación y préstamo de aulas, con roles, calendario institucional, reportes y auditoría.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_19-149ECA?style=flat-square&logo=react&logoColor=white" alt="React 19" />
-        <img src="https://img.shields.io/badge/Express_5-000000?style=flat-square&logo=express&logoColor=white" alt="Express 5" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-      </p>
-      <p align="center"><a href="https://aura-utn.vercel.app/"><b>▶ Abrir demo</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">CloudScraperLLM</h3>
-      <p align="center"><b>Scraping, análisis e inteligencia artificial</b></p>
-      <p align="center"><img src="https://img.shields.io/badge/PRODUCT_02-AI_AUTOMATION-8B5CF6?style=flat-square&labelColor=0D1117" alt="AI Automation" /></p>
-      <p>Pipeline que extrae productos, guarda información, programa ejecuciones y genera resúmenes con Azure OpenAI.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-        <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=openai&logoColor=white" alt="Azure OpenAI" />
-      </p>
-      <p align="center"><a href="https://github.com/frank771-ai/CloudScraperLLM"><b>⌁ Ver repositorio</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Café Salas</h3>
-      <p align="center"><b>E-commerce costarricense</b></p>
-      <p align="center"><img src="https://img.shields.io/badge/PRODUCT_03-E--COMMERCE-F59E0B?style=flat-square&labelColor=0D1117" alt="E-commerce" /></p>
-      <p>Tienda virtual completa con catálogo, carrito, checkout, autenticación, facturas PDF, administración, pruebas y despliegue serverless.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12" />
-        <img src="https://img.shields.io/badge/PHP_8.2-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8.2" />
-        <img src="https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=postgresql&logoColor=white" alt="Neon PostgreSQL" />
-      </p>
-      <p align="center"><a href="https://github.com/frank771-ai/cafe-salas"><b>⌁ Ver repositorio</b></a> · <a href="https://cafe-salas.vercel.app"><b>▶ Demo</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">note.</h3>
-      <p align="center"><b>Negocio propio · Perfumería curada</b></p>
-      <p align="center"><img src="https://img.shields.io/badge/PRODUCT_04-OWN_BUSINESS-FF3CAC?style=flat-square&labelColor=0D1117" alt="Negocio propio" /></p>
-      <p>Catálogo interactivo para descubrir fragancias mediante búsqueda, filtros, perfiles olfativos, comparación, favoritos y atención personalizada por WhatsApp.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
-        <img src="https://img.shields.io/badge/React_19-149ECA?style=flat-square&logo=react&logoColor=white" alt="React 19" />
-        <img src="https://img.shields.io/badge/TypeScript_5-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 5" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-      </p>
-      <p align="center"><img src="https://img.shields.io/badge/NEGOCIO_PROPIO-FF3CAC?style=for-the-badge&logoColor=white" alt="Negocio propio" /><br /><sub>Proyecto privado en desarrollo</sub></p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="assets/neon-divider.svg" width="86%" alt="Separador de energía multicolor" />
-</div>
-
-## 📊 Señal en vivo
-
-<div align="center">
-  <img height="175" src="https://github-stats-extended.vercel.app/api?username=frank771-ai&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=FF3CAC&text_color=C9D1D9&bg_color=00000000&include_all_commits=true" alt="Estadísticas de GitHub" />
-  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=frank771-ai&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=F472B6&text_color=C9D1D9&bg_color=00000000" alt="Lenguajes más usados" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=frank771-ai&theme=transparent&hide_border=true&ring=8B5CF6&fire=FF3CAC&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="Racha de contribuciones" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frank771-ai&theme=tokyonight" width="100%" alt="Resumen dinámico de contribuciones" />
-</div>
-
-<details>
-<summary><b>📈 Abrir más métricas dinámicas</b></summary>
-<br />
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=frank771-ai&theme=tokyonight&utcOffset=-6" alt="Horario productivo" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frank771-ai&theme=tokyonight" alt="Repositorios por lenguaje" />
-</div>
-</details>
+<div align="center"><img src="assets/activity-dashboard.svg" width="100%" alt="Panel propio de actividad de GitHub generado automáticamente" /></div>
+<p align="center"><sub>Generado diariamente desde la API de GitHub: repositorios públicos, proyectos activos, lenguajes y últimos cambios sin depender de servicios de tarjetas externas.</sub></p>
 
 ## 🏙️ Skyline 3D de contribuciones
 
@@ -209,11 +168,11 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
     <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Calendario tridimensional de contribuciones de GitHub" />
   </picture>
 </div>
-
 <p align="center"><sub>Se regenera automáticamente cada día con mi actividad real.</sub></p>
 
-## 🐍 El código también se mueve
-
+<details>
+<summary><b>🐍 Activar modo arcade: el código también se mueve</b></summary>
+<br />
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/frank771-ai/frank771-ai/output/github-contribution-grid-snake-dark.svg" />
@@ -221,10 +180,7 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
     <img alt="Animación de contribuciones" src="https://raw.githubusercontent.com/frank771-ai/frank771-ai/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
-
-<div align="center">
-  <img src="assets/neon-divider.svg" width="86%" alt="Separador de energía multicolor" />
-</div>
+</details>
 
 ## 🎯 Ahora mismo
 
@@ -239,16 +195,18 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
   </tr>
 </table>
 
-## 🤝 Conectemos
+<div align="center"><img src="assets/neon-divider.svg" width="86%" alt="Separador de energía multicolor" /></div>
+
+## 🤝 Construyamos algo
 
 <div align="center">
   <p>¿Tienes una idea, un proyecto o una oportunidad de colaboración?</p>
-  <a href="mailto:castillofranklin771@gmail.com"><img src="https://img.shields.io/badge/Escribeme-00B8D9?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Escríbeme" /></a>
-  <a href="https://linkedin.com/in/frank771-ai"><img src="https://img.shields.io/badge/Hablemos_en_LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:castillofranklin771@gmail.com"><img src="https://img.shields.io/badge/ESCRÍBEME-00E5FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Escríbeme" /></a>
+  <a href="https://linkedin.com/in/frank771-ai"><img src="https://img.shields.io/badge/HABLEMOS_EN_LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,25:3B82F6,50:8B5CF6,75:FF3CAC,100:FACC15&height=120&section=footer" width="100%" alt="Pie multicolor" />
   <br />
-  <sub><i>Construyendo el futuro, un commit a la vez.</i></sub>
+  <sub><i>Ideas → sistemas → impacto.</i></sub>
 </div>
