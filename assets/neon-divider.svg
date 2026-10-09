@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="84" viewBox="0 0 1400 84" role="img" aria-labelledby="title desc">
+  <title id="title">Pulso de energía multicolor</title><desc id="desc">Divisor decorativo animado con ondas, partículas y colores neón.</desc>
+  <defs>
+    <linearGradient id="s" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00e5ff"/><stop offset=".24" stop-color="#3b82f6"/><stop offset=".48" stop-color="#8b5cf6"/><stop offset=".72" stop-color="#ff3cac"/><stop offset="1" stop-color="#facc15"/></linearGradient>
+    <filter id="g" x="-100%" y="-300%" width="300%" height="700%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <path id="p" d="M0 0H370C435 0 450-27 500-27S565 27 620 27 680-27 740-27 805 27 860 27 925 0 990 0H1360"/>
+  </defs>
+  <style>.dash{stroke-dasharray:5 13;animation:d 2s linear infinite}.pulse{animation:p 2.5s ease-in-out infinite}@keyframes d{to{stroke-dashoffset:-36}}@keyframes p{50%{opacity:.28}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+  <path d="M20 42H1380" stroke="#263659" stroke-width="1"/>
+  <use href="#p" transform="translate(20 42)" fill="none" stroke="url(#s)" stroke-width="2.4" class="dash" filter="url(#g)"/>
+  <g transform="translate(20 42)" filter="url(#g)"><circle r="5" fill="#00e5ff"><animateMotion dur="4s" repeatCount="indefinite"><mpath href="#p"/></animateMotion></circle><circle r="4" fill="#ff3cac"><animateMotion dur="5s" begin="-2.5s" repeatCount="indefinite"><mpath href="#p"/></animateMotion></circle><circle r="4" fill="#facc15"><animateMotion dur="6s" begin="-4s" repeatCount="indefinite"><mpath href="#p"/></animateMotion></circle></g>
+  <circle cx="20" cy="42" r="5" fill="#00e5ff" filter="url(#g)" class="pulse"/><circle cx="1380" cy="42" r="5" fill="#facc15" filter="url(#g)" class="pulse"/>
+</svg>

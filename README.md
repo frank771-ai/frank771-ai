@@ -11,13 +11,16 @@
 </div>
 
 <div align="center">
-  <a href="mailto:castillofranklin771@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" /></a>
-  <a href="https://linkedin.com/in/frank771-ai"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
+  <a href="mailto:castillofranklin771@gmail.com"><img src="https://img.shields.io/badge/Email-FF3CAC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/frank771-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/frank771-ai?tab=followers"><img src="https://img.shields.io/github/followers/frank771-ai?style=for-the-badge&logo=github&label=Seguidores&color=8B5CF6&labelColor=0D1117" alt="Seguidores en GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=frank771-ai&style=for-the-badge&color=00B8D9&label=VISITAS" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=frank771-ai&style=for-the-badge&color=F59E0B&label=VISITAS" alt="Visitas al perfil" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATE-22C55E?style=for-the-badge&labelColor=0D1117" alt="Disponible para colaborar" />
 </div>
 
-<br />
+<div align="center">
+  <img src="assets/neon-divider.svg" width="92%" alt="Pulso neón animado" />
+</div>
 
 ## `> whoami`
 
@@ -37,10 +40,10 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
 
 <table>
   <tr>
-    <td width="25%" align="center"><b>🌐 Full-Stack</b><br /><sub>Interfaces modernas, APIs REST, autenticación y experiencias completas.</sub></td>
-    <td width="25%" align="center"><b>☁️ Cloud & DevOps</b><br /><sub>Contenedores, CI/CD, Kubernetes, despliegues y observabilidad.</sub></td>
-    <td width="25%" align="center"><b>🤖 IA & Automation</b><br /><sub>LLMs, extracción de datos, tareas programadas y flujos inteligentes.</sub></td>
-    <td width="25%" align="center"><b>🗄️ Data</b><br /><sub>Modelado SQL, PostgreSQL, Supabase, MariaDB, SQLite y D1.</sub></td>
+    <td width="25%" align="center"><img src="https://img.shields.io/badge/🌐_FULL--STACK-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Full-Stack" /><br /><sub>Interfaces modernas, APIs REST, autenticación y experiencias completas.</sub></td>
+    <td width="25%" align="center"><img src="https://img.shields.io/badge/☁️_CLOUD_DEVOPS-3B82F6?style=for-the-badge&labelColor=0D1117" alt="Cloud y DevOps" /><br /><sub>Contenedores, CI/CD, Kubernetes, despliegues y observabilidad.</sub></td>
+    <td width="25%" align="center"><img src="https://img.shields.io/badge/🤖_AI_AUTOMATION-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="IA y automatización" /><br /><sub>LLMs, extracción de datos, tareas programadas y flujos inteligentes.</sub></td>
+    <td width="25%" align="center"><img src="https://img.shields.io/badge/🗄️_DATA-FF3CAC?style=for-the-badge&labelColor=0D1117" alt="Data" /><br /><sub>Modelado SQL, PostgreSQL, Supabase, MariaDB, SQLite y D1.</sub></td>
   </tr>
 </table>
 
@@ -107,6 +110,10 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
 </div>
 </details>
 
+<div align="center">
+  <img src="assets/neon-divider.svg" width="86%" alt="Separador de energía multicolor" />
+</div>
+
 ## 🚀 Proyectos destacados
 
 <table>
@@ -114,6 +121,7 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
     <td width="50%" valign="top">
       <h3 align="center">AURA</h3>
       <p align="center"><b>Administración Universitaria de Recursos y Aulas</b></p>
+      <p align="center"><img src="https://img.shields.io/badge/PRODUCT_01-EDTECH-00E5FF?style=flat-square&labelColor=0D1117" alt="EdTech" /></p>
       <p>Sistema full-stack para disponibilidad, asignación y préstamo de aulas, con roles, calendario institucional, reportes y auditoría.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/React_19-149ECA?style=flat-square&logo=react&logoColor=white" alt="React 19" />
@@ -125,6 +133,7 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
     <td width="50%" valign="top">
       <h3 align="center">CloudScraperLLM</h3>
       <p align="center"><b>Scraping, análisis e inteligencia artificial</b></p>
+      <p align="center"><img src="https://img.shields.io/badge/PRODUCT_02-AI_AUTOMATION-8B5CF6?style=flat-square&labelColor=0D1117" alt="AI Automation" /></p>
       <p>Pipeline que extrae productos, guarda información, programa ejecuciones y genera resúmenes con Azure OpenAI.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -138,6 +147,7 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
     <td width="50%" valign="top">
       <h3 align="center">Café Salas</h3>
       <p align="center"><b>E-commerce costarricense</b></p>
+      <p align="center"><img src="https://img.shields.io/badge/PRODUCT_03-E--COMMERCE-F59E0B?style=flat-square&labelColor=0D1117" alt="E-commerce" /></p>
       <p>Tienda virtual completa con catálogo, carrito, checkout, autenticación, facturas PDF, administración, pruebas y despliegue serverless.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12" />
@@ -149,6 +159,7 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
     <td width="50%" valign="top">
       <h3 align="center">note.</h3>
       <p align="center"><b>Negocio propio · Perfumería curada</b></p>
+      <p align="center"><img src="https://img.shields.io/badge/PRODUCT_04-OWN_BUSINESS-FF3CAC?style=flat-square&labelColor=0D1117" alt="Negocio propio" /></p>
       <p>Catálogo interactivo para descubrir fragancias mediante búsqueda, filtros, perfiles olfativos, comparación, favoritos y atención personalizada por WhatsApp.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js 16" />
@@ -156,20 +167,24 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
         <img src="https://img.shields.io/badge/TypeScript_5-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 5" />
         <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
       </p>
-      <p align="center"><img src="https://img.shields.io/badge/NEGOCIO_PROPIO-8B5CF6?style=for-the-badge&logoColor=white" alt="Negocio propio" /><br /><sub>Proyecto privado en desarrollo</sub></p>
+      <p align="center"><img src="https://img.shields.io/badge/NEGOCIO_PROPIO-FF3CAC?style=for-the-badge&logoColor=white" alt="Negocio propio" /><br /><sub>Proyecto privado en desarrollo</sub></p>
     </td>
   </tr>
 </table>
 
+<div align="center">
+  <img src="assets/neon-divider.svg" width="86%" alt="Separador de energía multicolor" />
+</div>
+
 ## 📊 Señal en vivo
 
 <div align="center">
-  <img height="175" src="https://github-stats-extended.vercel.app/api?username=frank771-ai&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=8B5CF6&text_color=C9D1D9&bg_color=00000000&include_all_commits=true" alt="Estadísticas de GitHub" />
-  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=frank771-ai&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=00E5FF&text_color=C9D1D9&bg_color=00000000" alt="Lenguajes más usados" />
+  <img height="175" src="https://github-stats-extended.vercel.app/api?username=frank771-ai&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=FF3CAC&text_color=C9D1D9&bg_color=00000000&include_all_commits=true" alt="Estadísticas de GitHub" />
+  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=frank771-ai&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=F472B6&text_color=C9D1D9&bg_color=00000000" alt="Lenguajes más usados" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=frank771-ai&theme=transparent&hide_border=true&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com?user=frank771-ai&theme=transparent&hide_border=true&ring=8B5CF6&fire=FF3CAC&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="Racha de contribuciones" />
 </div>
 
 <div align="center">
@@ -207,14 +222,22 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
   </picture>
 </div>
 
+<div align="center">
+  <img src="assets/neon-divider.svg" width="86%" alt="Separador de energía multicolor" />
+</div>
+
 ## 🎯 Ahora mismo
 
-```text
-01. Profundizando en arquitecturas full-stack y cloud-native
-02. Construyendo soluciones con IA aplicada y automatización
-03. Mejorando seguridad, observabilidad y calidad de despliegue
-04. Convirtiendo proyectos académicos en productos demostrables
-```
+<table>
+  <tr>
+    <td width="50%" valign="top"><img src="https://img.shields.io/badge/FOCUS_01-CLOUD--NATIVE-00E5FF?style=flat-square&labelColor=0D1117" alt="Cloud-native" /><br /><sub>Profundizando en arquitecturas full-stack y cloud-native.</sub></td>
+    <td width="50%" valign="top"><img src="https://img.shields.io/badge/FOCUS_02-APPLIED_AI-8B5CF6?style=flat-square&labelColor=0D1117" alt="IA aplicada" /><br /><sub>Construyendo soluciones con IA aplicada y automatización.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><img src="https://img.shields.io/badge/FOCUS_03-SECURE_BY_DESIGN-FF3CAC?style=flat-square&labelColor=0D1117" alt="Seguridad" /><br /><sub>Mejorando seguridad, observabilidad y calidad de despliegue.</sub></td>
+    <td width="50%" valign="top"><img src="https://img.shields.io/badge/FOCUS_04-PRODUCT_MINDSET-F59E0B?style=flat-square&labelColor=0D1117" alt="Producto" /><br /><sub>Convirtiendo proyectos académicos en productos demostrables.</sub></td>
+  </tr>
+</table>
 
 ## 🤝 Conectemos
 
@@ -225,7 +248,7 @@ Soy **Franklin Castillo Umaña**, estudiante de Ingeniería en Tecnologías de l
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,50:006D77,100:8B5CF6&height=120&section=footer" width="100%" alt="Pie animado" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,25:3B82F6,50:8B5CF6,75:FF3CAC,100:FACC15&height=120&section=footer" width="100%" alt="Pie multicolor" />
   <br />
   <sub><i>Construyendo el futuro, un commit a la vez.</i></sub>
 </div>
